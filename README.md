@@ -88,6 +88,7 @@
 
 <p align="center">
   <a href="mailto:arulmadhujothi@gmail.com">
+    <img src="https://img.shields.io"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arulmuruganmadheswaran" target="_blank">
