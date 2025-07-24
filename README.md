@@ -12,12 +12,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://angular.io" target="_blank" style="display:inline-block;margin:10px 40px;">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="150" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display:inline-block;margin:0 40px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="130" />
-  </a>
+  <span style="display:inline-block;padding:'110px';">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="160" style="padding-top:20px" />
+  </span>
+  <a style="display:inline-block;margin:0 20px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript Logo" width="130" />
+</a>
+
 </div>
 
 
