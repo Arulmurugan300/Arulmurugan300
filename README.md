@@ -1,12 +1,14 @@
 <!-- Profile README for Arulmurugan M -->
 
-<h1 align="center" style="font-size: 36px;">
+<h1 align="center" style="font-size: 38px;">
   👋 Hi there, I'm <span style="color:#00BCD4">Arulmurugan M</span>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BCD4&center=true&width=700&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+%F0%9F%96%8C%EF%B8%8F;Clean+and+Maintainable+Code" alt="Typing SVG" />
+<p align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BCD4&center=true&width=800&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+%F0%9F%96%8C%EF%B8%8F;Clean+and+Maintainable+Code" alt="Typing SVG" />
 </p>
+
+<br/>
 
 ---
 
@@ -14,7 +16,9 @@
 
 🎯 I’m a **Front-End Developer** with `2.5+ years` of experience building high-performance and responsive Angular apps.  
 🧠 I focus on **state management**, **GraphQL APIs**, and **pixel-perfect UI components**.  
-🚀 I enjoy optimizing apps and crafting clean, scalable code.  
+🚀 I enjoy optimizing apps and crafting clean, scalable code.
+
+<br/>
 
 ---
 
@@ -38,12 +42,16 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
+<br/>
+
 ---
 
 ## 🏆 Achievements
 
 - 🦅 **Eye of an Eagle** – *Centizen Inc., Dec 2023*  
-- 🎯 **Pixel Perfectionist** – *Centizen Inc., Dec 2024*  
+- 🎯 **Pixel Perfectionist** – *Centizen Inc., Dec 2024*
+
+<br/>
 
 ---
 
@@ -60,6 +68,8 @@
 🗓️ *May 2018 – May 2020*
 - Managed automated lines & reduced scrap rate by 18%.
 
+<br/>
+
 ---
 
 ## 🎓 Education
@@ -70,15 +80,27 @@
 🎓 **Diploma in Mechanical Engineering**  
 *Kongunadu Polytechnic College (2016–2018)*
 
+<br/>
+
 ---
 
 ## 📬 Let's Connect
 
-- 📧 **Email**: arulmadhujothi@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/arulmuruganmadheswaran](https://www.linkedin.com/in/arulmuruganmadheswaran)  
-- 💻 **GitHub**: [github.com/arulmurugan](https://github.com/arulmurugan)
+<p align="center">
+  <a href="mailto:arulmadhujothi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arulmadhujothi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arulmuruganmadheswaran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-arulmuruganmadheswaran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/arulmurugan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-arulmurugan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
----
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arulmurugan&style=for-the-badge&color=blue" alt="Visitor Count"/>
