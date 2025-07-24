@@ -5,11 +5,24 @@
 </h1>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&width=850&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+🖌️;Cool+as+Code" width="400"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&width=850&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+🖌️;Cool+as+Code" />
 
 </p>
 
 <br/>
+<p align="center">
+  <!-- Angular Logo -->
+  <a href="https://angular.io" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="180" alt="Angular Logo">
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- JavaScript Logo -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="130" alt="JavaScript Logo">
+  </a>
+</p>
 
 ---
 
