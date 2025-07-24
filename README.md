@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&width=850&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+🖌️;Cool+as+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&width=850&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+🖌️;Cool+as+Code" width="400"  />
 
 </p>
 
