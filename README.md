@@ -10,19 +10,16 @@
 </p>
 
 <br/>
-<p align="center">
-  <!-- Angular Logo -->
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="180" alt="Angular Logo">
-  </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- JavaScript Logo -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="130" alt="JavaScript Logo">
+<div align="center">
+  <a href="https://angular.io" target="_blank" style="display:inline-block;margin:10px 40px;">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="170" />
   </a>
-</p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display:inline-block;margin:0 40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="130" />
+  </a>
+</div>
+
 
 ---
 
