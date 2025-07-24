@@ -5,7 +5,8 @@
 </h1>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BCD4&center=true&width=800&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+%F0%9F%96%8C%EF%B8%8F;Clean+and+Maintainable+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&width=850&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+🖌️;Clean+and+Maintainable+Code" />
+
 </p>
 
 <br/>
