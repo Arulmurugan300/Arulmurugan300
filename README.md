@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size: 38px;">
   👋 Hi there, I'm <span style="color:#00BCD4">Arulmurugan M</span>
 </h1>
-
+<br/>
 <p align="center" style="margin-top: 10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&width=850&lines=Front-End+Angular+Developer;GraphQL+%7C+NgRx+%7C+UI+Lover;Pixel+Perfect+Designs+🖌️;Cool+as+Code" />
 
@@ -41,7 +41,6 @@
 ### 🔧 Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 <br/>
 
